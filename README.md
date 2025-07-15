@@ -1,4 +1,4 @@
-# chronicle.md
+# chronicl.md
 
 > **Note:** This project is a work in progress and is under active refinement.
 
