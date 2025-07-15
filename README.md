@@ -12,9 +12,10 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/minimal-mind/chronicl)
 ![GitHub last commit](https://img.shields.io/github/last-commit/minimal-mind/chronicl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 </div>
 
-`chronicl.md` is a development practice to add narrative to your codebase for better human and ai context. 
+`chronicl.md` is a development practice to add narrative to your codebase for better human and ai context.
 
 ## The Context Gap
 
@@ -33,6 +34,7 @@ The result? Your AI assistant suggests patterns that clash with your design inte
 ### What It Is
 
 A living, evolving document that captures:
+
 - **Codebase Overview**: High-level project structure and purpose
 - **Motivation/Objectives**: What you're building and why
 - **Tech Stack**: Key libraries, services, and dependencies
@@ -77,9 +79,11 @@ The key innovation of chronicl.md is combining these concepts into a single, liv
 The best way to contribute today is to add an Issue to the repo with your ideas, suggestions, or requests and I can update the structure of the file.
 
 ## Example (Python Package Project)
-![cursor agent](./assets/cursor%20agent.png)
+
+![cursor agent](./assets/cursor_agent.png)
 
 ---
+
 `chronicl` was created by <a href="https://minimalmind.io" target="_blank">Minimal Mind</a>
 <br /><br />
 <a href="https://twitter.com/intent/user?screen_name=minimalmindio">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/minimalmindio)</a>
